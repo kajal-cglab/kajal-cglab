@@ -11,7 +11,7 @@ pathogenicity repertoire; that topologically associated domains act as stage-spe
 regulatory units during infection; and that *P. capsici* forms mammalian-type chromatin
 loops despite having no CTCF.
 
-I am now interested in whether that architecture is causal — whether structural variation
+I am now interested in whether that architecture is causal - whether structural variation
 that relocates effector genes between chromatin domains changes how they are regulated.
 
 ---
