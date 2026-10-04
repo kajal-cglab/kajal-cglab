@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Kajal Mandal 👋
 
-<!--
-**kajal-cglab/kajal-cglab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computational Genomics & Molecular Biology Researcher** with over 8 years of experience spanning dry-lab bioinformatics and wet-lab experimentation. Supported by **SERB and UGC fellowships**, my research focuses on host-pathogen interactions (specifically *Phytophthora*-plant systems), 3D-genome architecture, and genome evolution in oomycetes and fungi to drive sustainable agriculture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+* **Genomics & Evolution:** Oomycete/fungal genomics, comparative genomics, and effector biology.
+* **Gene Regulation:** Chromatin organization, 3D genome biology, and small RNA regulation.
+* **Host Immunity:** Plant-microbe interactions and host immune suppression.
+
+---
+
+### 🛠️ Core Skills
+* **Dry-Lab (Bioinformatics):** Chromosome-scale assembly, structural/functional annotation, 3D genomics, transcriptomics, Python, R, and data visualization.
+* **Wet-Lab (Molecular Biology):** qRT-PCR, cloning, transgenic plant development, tissue culture, protein characterization, and pathogen bioassays.
+* **Sequencing Data:** Nanopore, PacBio, Illumina, and Hi-C integration.
