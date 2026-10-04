@@ -18,7 +18,7 @@ that relocates effector genes between chromatin domains changes how they are reg
 
 ### Repositories
 
-**[phytophthora-3d-genome])** - Hi-C processing and 3D genome analysis for *P. capsici*.
+**[phytophthora-3d-genome]** - Hi-C processing and 3D genome analysis for *P. capsici*.
 Alignment and filtering through to A/B compartment calling, TAD detection and loop calling,
 with the parameters used in the paper. *(Mandal et al. 2026, Communications Biology,
 [doi](https://doi.org/10.1038/s42003-026-10760-5)
